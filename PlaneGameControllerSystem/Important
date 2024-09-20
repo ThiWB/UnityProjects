@@ -1,0 +1,6 @@
+This code was made by me following the "Challenge 1" of the Junior Programming Course on Unity.
+To use it I recommend that you create a new empty GameObject and add the script to it.
+The script will create a plane with a mesh collider and a rigidbody.
+The plane will move forward and rotate according to the user's input.
+The plane will also spin its propellers automatically.
+The camera will follow the plane along with the user's input.
